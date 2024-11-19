@@ -1,7 +1,6 @@
 # 💫 About Me:
 In the name of God 🙏<br>Hello! I’m Ali 👋, a passionate 20-year-old software developer 💻,<br>driven by a love for programming and technology 🌟.<br>I’ve delved into languages like PHP, C#, Python, and JavaScript 📚,<br>actively immersed in exciting software and game development projects 🎮.<br>My ambition is to elevate my skills to new heights 🚀<br>while bringing innovative and creative projects to life 💡.<br>I have a keen interest in exploring new patterns<br>along with cutting-edge techniques in programming 🔍,<br>while truly enjoying the opportunity to share insights and experiences with others 🤝.
 
-<a href="https://www.coffeebede.com/eleement"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alip.ap20) 
 
@@ -17,7 +16,10 @@ In the name of God 🙏<br>Hello! I’m Ali 👋, a passionate 20-year-old softw
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ElEeCTRoN&limit=5&theme=nord&combine_all_yearly_contributions=true)
+<a href="https://www.coffeebede.com/eleement"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ElEeCTRoN&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
